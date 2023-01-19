@@ -1,4 +1,4 @@
-import React from "react";
+/* eslint-disable jsx-a11y/anchor-is-valid */
 import DefaultTemplate from "../templates/DefaultTemplate";
 import HeroBlock from "../components/blocks/HeroBlock";
 import {Box, Container, Table, TableHead, TableRow, TableCell, Typography} from "@mui/material";

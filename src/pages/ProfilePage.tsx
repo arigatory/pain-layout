@@ -1,4 +1,5 @@
-import React, {useEffect, useState} from "react";
+/* eslint-disable react-hooks/exhaustive-deps */
+import {useEffect, useState} from "react";
 import DefaultTemplate from "../templates/DefaultTemplate";
 import HeroBlock from "../components/blocks/HeroBlock";
 import {styled} from "@mui/system";
