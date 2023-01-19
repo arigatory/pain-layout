@@ -21,7 +21,7 @@ const BarChart = (props: {
     const globalData = props.data
 
     const TooltipContent = (props: any) => {
-        const { targetItem, text, ...restProps } = props;
+        const { targetItem, text } = props;
 
         return (
             <BoxFlexColumn

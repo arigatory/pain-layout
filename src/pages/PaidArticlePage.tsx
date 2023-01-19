@@ -1,4 +1,3 @@
-import React from "react";
 import DefaultTemplate from "../templates/DefaultTemplate";
 import HeroBlock from "../components/blocks/HeroBlock";
 import {Box, Button, Container, Link, TextField, Typography} from "@mui/material";
