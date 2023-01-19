@@ -1,0 +1,49 @@
+@import "fonts"
+
+img
+  max-width: 100%
+
+a
+  text-decoration: none
+
+.Overlay-popper
+  z-index: 5 !important
+
+  .Arrow-arrow-top
+    width: 24px
+    height: 24px
+    background: #FFFFFF
+    box-shadow: 0px 3px 6px rgba(0, 0, 0, 0.12)
+
+  & > div
+    padding: 0
+    box-shadow: none
+    background: transparent
+    &::after, &::before
+      display: none
+
+
+.pain-table
+  border-top: none !important
+
+  .MuiTableCell-root
+    padding: 12px 0
+
+  .MuiTableRow-root:last-of-type .MuiTableCell-root
+    border-bottom: none
+
+
+.MuiPickersPopper-root
+  .MuiPaper-root
+    box-shadow: 0px 10px 20px rgba(0, 0, 0, 0.08)
+    border-radius: 8px
+
+    .MuiButtonBase-root
+      border-radius: 4px
+      font-weight: 400
+      font-size: 16px
+      line-height: 24px
+
+      &.Mui-selected
+        background-color: #2452AB
+        color: #fff

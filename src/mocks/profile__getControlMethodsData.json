@@ -1,0 +1,13 @@
+{
+  "message": "OK",
+  "data": {
+    "psychotherapy": 88,
+    "meditation": 85,
+    "yoga": 90,
+    "bos": 70,
+    "physical": 90,
+    "manual": 80,
+    "acupuncture": 85,
+    "invasive": 75
+  }
+}

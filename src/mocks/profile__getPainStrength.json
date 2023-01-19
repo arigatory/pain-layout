@@ -1,0 +1,39 @@
+{
+  "message": "OK",
+  "data": {
+    "score": {
+      "value": 7.5,
+      "diff": 1.2
+    },
+    "data": [
+      {
+        "date": "12 янв",
+        "value": 6
+      },
+      {
+        "date": "13 янв",
+        "value": 7
+      },
+      {
+        "date": "14 янв",
+        "value": 4
+      },
+      {
+        "date": "15 янв",
+        "value": 5
+      },
+      {
+        "date": "16 янв",
+        "value": 8
+      },
+      {
+        "date": "17 янв",
+        "value": 6
+      },
+      {
+        "date": "18 янв",
+        "value": 7
+      }
+    ]
+  }
+}
